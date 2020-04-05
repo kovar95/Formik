@@ -1,0 +1,9 @@
+.message {
+	color: red;
+    text-shadow: 1px 1px 2px black;
+    font-size: 12px;
+    margin-bottom: 5px;
+    &.invalid {
+    	color: red;
+    }
+}
